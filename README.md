@@ -108,6 +108,7 @@ Si encuentras algún bug o tienes sugerencias, por favor:
 **Tu Nombre**
 - GitHub: https://github.com/EdwinEstrella
 - LinkedIn: https://linkedin.com/in/edwin-gabriel-estrella-florentino-85369118a
+- Proyecto: https://edwinestrella.github.io/amigo-secreto/
 
 ---
 
